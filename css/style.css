@@ -116,7 +116,7 @@ header label {
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(../imgs/backgroundalt.png) no-repeat;
+    background:url("../imgs/backgroundalt.png") no-repeat;
     background-size: 100%;
     background-position: center;
     
@@ -254,7 +254,7 @@ header label {
 .footer {
 
 padding-top: 3rem;
-background:url(../imgs/footerbckrnd.png) no-repeat;
+background:url("../imgs/footerbckrnd.png") no-repeat;
 background-size: cover;
 background-position: center;
 
